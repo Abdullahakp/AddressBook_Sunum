@@ -12,7 +12,7 @@ Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır.
 
 Projede AspnetCore Identity kullanarak üyelik sistemini yazdık.
 
-Projeyi 5 katman (EL,DAL,BLL,UI, AddressBookNeighborhoodsLoad) olarak yazdık. -AddressBookNeighborhoodsLoad katmanı Console uygulaması olup Mahalle datasını eklemektedir. (70bin data bulunuyor)
+Projeyi 5 katman (EL,DL,BL,UI,PL) olarak yazdık.  (70bin data bulunuyor)
 
 Projede İlleri ve İlçeleri Excel dosyasını back-endde okuyarak veritabanına proje ilk ayağa kalktığında ekledik.
 
